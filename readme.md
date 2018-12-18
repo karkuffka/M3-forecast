@@ -7,7 +7,7 @@
 
 ## License
 
-This project is licensed under... no it is not
+This project is licensed under... not yet specified. So far useless content
 
 ## Acknowledgments
 
